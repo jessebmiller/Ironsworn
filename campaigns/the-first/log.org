@@ -1,0 +1,129 @@
+* The Raid that Broken my Family's Back
+
+  Home, Wyvern's Rest, the southern raiders must be getting
+  desperate. We don't often get raiders this close to the Veiled
+  Mountains, usually easier to head south where it's warm and the
+  people are soft than north to raid villages with more grit than you
+
+  Maybe it was retaliation
+
+  This raid was the worst we've seen and they were after more than
+  supplies. This was murderous, something's changed. Only 19 of 36
+  families survived the attack, mine thankfully was one of them. Those
+  19 did finally drive the raiders off. We've always had good reserves
+  of iron and good iron workers but after this that may
+  change. Wyvern's Rest may not survive this.
+
+  I returned to the aftermath with supplies and surprises for my
+  siblings as I sometimes do hoping to delight them. My aging parents
+  did survive though their home did not and I fear they won't survive
+  the remaining winter.  This village is not the safety in numbers it
+  was and after hearing Padma's account of the raid I grabbed my
+  iron axe head and her hands.
+
+  "I vow to build us a safe sturdy home and bring you, Pearce, Wena
+  and Bas"
+
+  > Swear an Iron Vow, +heart(2) +bond(1), Weak Hit, +1 Momentum
+
+  Where will we be safe? What village will welcome us? Will I be able
+  to get my parents there? Will Pearce and Padma even come? Will it
+  have been worth it?
+
+* Journey to the Mines in the Hills
+
+  There are a few who've worked with me in mines in the Tempest Hills
+  and their communities are large and strong. Perhaps they'd welcome
+  us?
+
+  > Undertake a Troublesome Journey Strong hit, I move at speed
+  > -1 Supply +1 Momentum
+
+  I've packed light to move quickly and trekked well into the night
+  before making camp outside Brokenhelm. It's too late for this many
+  lamps to be lit, and too late for so many arguments in the paths
+  between homes to be heard so clearly from the distance I've chosen
+  for camp. A very respectful distance. Listening to the arguments it
+  becomes clear. There were families from Brokenhelm who joined in
+  this murderous raid and the community is split. Half wanting the
+  rewards and safety of destroying a weakened neighbor, half knowing
+  how dangerous it is to be so near a cornered, desperate wyvern.
+
+  I'll make camp quietly with no fire tonight and decide what to do in
+  the morning.
+
+  > Make Camp (+supply) Weak hit, Focus, +1 Momentum
+
+** Brokenhelm in Urgent Conflict
+
+  Waking in the early morning it's clear. I've got to ensure that the
+  hawks of Brokenhelm who've already participated in the raid don't
+  rally the rest of their community to join in the final destruction
+  of Wyvern's Rest. I need to know who want's peace with Wyvern's Rest
+  and what the state of the debate is. I've got to insert myself into
+  the debate with both sides present to avoid being caught out by the
+  hawks and killed on the spot. I make my way to the tightest pack of
+  homes and shout loud
+
+  "Who of Brokenhelm will come defend your sibling settlement from
+  murderous raiders who will surely turn on you at the soonest arrival
+  of hardship or opportunity?"
+
+  > Gather Information, Miss
+
+  Turns out this pack of homes are co-conspirators and happy to kill a
+  lone wyvernstedder who's come to offer themself. Two hardened
+  helmstedders burst out of their homesteads, spears ready to throw.
+
+  > Enter the Dangerous Fray Ambushed, Strong hit, +2 momentum, take
+  > initiative
+
+  Rhoddri flinging her door open ready to throw a spear at me is
+  caught off guard by the distance I had closed as I leap forward to
+  strike her squarely with my axe in sudden close quarters.
+
+  > Strike, Miss, Doubles 10
+
+  // Note: I came into this Strike off the back of a strong hit Enter
+  // the fray and rolled the 6, 10, 10! the highest possible on all
+  // dice as well as the highest double possible. Whatever happens here
+  // should be a setup for the entire epic "found a circle" vow.
+  // Going to roll two major plot twists here and a theme for each
+
+  > Major plot twist: The enemy gains new allies
+  > Theme: Community
+
+
+  > Major plot twist: Unexpected powers or abilities are revealed
+  > Theme: Fear
+
+  > Pay the Price: It causes a delay or puts you at a disadvantage
+  > Lose initiative, opponents gain new allies that I have no hope of
+  > defeating
+
+  An deafening blast from an iron war horn on a nearby hilltop
+  announced their presence and purpose.
+
+  // The blast is from an Epic Iron Revenant whose vow is to conquer
+  // the Ironlands and all its people
+
+  The earth shook, knocked my feet from under me, and stole skull from
+  my axe. Homes crumbled. 50 beasts---many carrying multiple raiders
+  and adorned with the severed heads and limbs of their unwilling
+  subjects---stampeded through, killing anyone fleeing from fallen
+  houses.
+
+  An elder boar charges our nipped skirmish so I push this helmstedder
+  into its path.
+
+  > Face Danger (+iron(3)) Miss
+
+  The helmstedder uses my momentum against me, leaps to mount the
+  giant boar, and entangles me with my own rope dragging me alongside.
+
+  // Enduring 3 harm here because the boar isn't what attacked me, but
+  // it's worse than just the dangerous helmstedder.
+
+  > Endure 3 Harm (+iron(3)) Weak Hit I press on
+
+  

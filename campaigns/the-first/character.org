@@ -1,0 +1,140 @@
+* I
+
+  I, a middle aged grizzled jeweler, artist, and blacksmith; calm,
+  strong, and persistent as all blacksmiths become; observant,
+  thoughtful, and insightful as all artists who persist become. I, a
+  joyful singer, breezy dancer, and radiant reveler when these harsh
+  iron lands give opportunity. I, an aching hammering shoulder, a
+  difficulty sleeping through the night, and a disagreement with the
+  common wisdom of friendships, lovers, and our duty to the gods. I,
+  an uncommon but strong bond. I, refusal to burden.
+
+  I, Alban the Two Hearted
+
+  I, the eldest of my siblings, but too young to do so, left my family
+  and northern Ragged Coast to survive on my own, west in the
+  Tempest Hills. They were bearing a third child while struggling to
+  support us two and would have to kill it or risk the whole family. I
+  would return from time to time when I found myself with an abundance
+  to share but the visits were always awkward, strange, and short.
+
+* Stats
+
+  | Edge | Heart | Iron | Shadow | Wits |
+  |------+-------+------+--------+------|
+  |    1 |     2 |    3 |      1 |    2 |
+
+* Tracks
+
+  | Health | Spirit | Supply |
+  |--------+--------+--------|
+  |      2 |      5 |      4 |
+
+  | Momentum | Max | Reset |
+  |----------+-----+-------|
+  |        7 |  10 |     2 |
+
+* Vows
+
+  - Epic: I will found a new circle forged of safety, prosperity, and
+    revelry
+  - Dangerous: I will build my family a home in a large safe village
+
+* Bonds
+
+  1. Padma, my young sister ten years my junior
+  2. Ravenbridge, Tempest Hill, where I found work
+  3. Nakata, who taught me blacksmithing
+
+* Debilities
+
+  *Conditions*
+
+  | Wounded (health) | Shaken (spirit) | Unprepared (supply) | Encumbered |
+  |------------------+-----------------+---------------------+------------|
+  |                  |                 |                     |            |
+
+  *Banes*
+  | Maimed | Corrupted |
+  |--------+-----------|
+  |        |           |
+
+  *burdens*
+  | Cursed | Tormented |
+  |--------+-----------|
+  |        |           |
+
+* Assets
+
+** WRIGHT
+   Specialty: Blacksmith
+   - [X] When you Secure an Advantage by crafting a useful item using
+     your specialty, or when you Face Danger to create or repair an
+     item in a perilous situation, add +1 and take +1 momentum on a
+     hit.
+   - [ ] As above, and you may suffer -1 supply (after rolling) to add
+     an additional +1.
+   - [ ] When you give the item you create as a gift to commemorate an
+     important event or relationship, you may (one time only) re-roll
+     any dice when you Compel, Forge a Bond, or Test Your Bond.
+
+** BONDED
+   - [X] When you make a move which gives you an add for sharing a
+     bond, add +1 more.
+   - [ ] When you completely fill a box on your bonds progress track,
+     envision what your relationships have taught you. Then, take 1
+     experience and +2 momentum.
+   - [ ] When you make a move in a crucial moment and score a miss,z
+     you may cling to thoughts of your bond-kin for courage or
+     encouragement. If you do, reroll any dice. On another miss, in
+     addition to the outcome of the move, you must mark shaken or
+     corrupted. If both debilities are already marked, Face
+     Desolation.
+
+** SUNDERER
+   If you wield an axe...
+   - [X] When you Strike or Clash in close quarters, you may suffer -1
+     momentum and inflict +1 harm on a hit (decide before rolling).
+   - [ ] When you have your axe in hand, and use the promise of
+     violence to Compel or Secure an Advantage, add +1 and take +1
+     momentum on a hit.
+   - [ ] When you make a tribute to a fallen foe (formidable or
+     greater) by carvinga rune in the haft of your axe, roll
+     +heart. On a strong hit, inflict +1d6 harm (one time only) when
+     you Strike or Clash. On a weak hit, as above, but this death
+     weighs on you; Endure Stress (2 stress).
+* Experience
+* Equipment
+
+  - Quilted linen and hide armor
+  - Bearded felling axe
+  - Hunting bow
+  - Rounding hammer
+
+* Truths
+
+   - The Sickness drove us from the Old World. There must be hundreds
+     of ships wrecked among the barrier islands.
+   - Only those made of iron dare live in this foul place
+   - Ancient ruins are found throughout the Ironlands, seemingly many
+     cultures have arrived here and died here. This is likely our fate
+     as well.
+   - We live in circles. Some as small as a few families, others as
+     large as 50 or 60 families. We trade and feud.
+   - Leadership is as varied as the people.
+   - Supplies are too precious to support dedicated fighting forces,
+     though some of the largest circles in the Heavens do support a
+     few wardens
+   - Some find comfort in the old rituals and mystic tales and many
+     perform common superstitions out of habit.
+   - Most honor, pray, and sacrifice to the gods public though in
+     private many question their existence.
+   - There do seem to be ruins of the firstborn though they were just
+     another in the line of peoples who settled and died out here.
+   - Beasts of all sorts roam the Ironlands.
+   - We are wary of dark forests and deep waterways, for monsters lurk
+     in those places.
+
+
+* Journey to the Mines Progress
+ ###
